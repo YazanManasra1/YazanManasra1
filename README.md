@@ -1,55 +1,51 @@
-```md
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YazanManasra1.YazanManasra1">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yazan+Manasra;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yazan+Manasra;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
+<h4 align="center">
   <code>
-    <a href="https://github.com/YazanManasra1" title="GitHub Profile">
-      GitHub
-    </a>
+    <a href="https://github.com/YazanManasra1" title="GitHub Profile">GitHub</a>
   </code>
-</h5>
+</h4>
 
 <br>
 
 <p align="center">
-  Hi, I'm Yazan Manasra, a Software Engineering student from Jordan 🇯🇴
+  👋 Hi, I'm <b>Yazan Manasra</b> from Jordan 🇯🇴
+  <br><br>
+  🎓 Software Engineering Student at Jadara University
   <br>
+  💻 Learning Full-Stack Development
   <br>
-  🎓 I'm currently studying Software Engineering at Jadara University
+  🧠 Interested in Problem Solving, Data Structures & Algorithms
   <br>
-  💻 I'm learning Full-Stack Development
+  🚀 Building projects and improving my development skills
   <br>
-  🧠 I'm interested in Data Structures, Algorithms and Problem Solving
-  <br>
-  🚀 I'm building my skills step by step through real projects
-  <br>
-  📚 Currently learning C++, Java, JavaScript, React, Spring Boot and SQL
+  🎯 Working towards becoming a Full-Stack Developer
 </p>
 
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<h2 align="center">🔥 Languages & Technologies 🔥</h2>
 
 <br>
 
 <p align="center">
-  <code><img title="C++" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img title="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img title="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img title="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img title="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img title="Spring Boot" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
-  <code><img title="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-  <code><img title="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-  <code><img title="VS Code" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img title="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
 <hr>
@@ -76,41 +72,39 @@
 <br>
 
 <p align="center">
+  🧱 <b>01 — Programming Fundamentals</b>
+  <br>
+  C++ • Problem Solving • Data Structures • Algorithms
 
-🧱 <b>Programming Fundamentals</b>
-<br>
-C++ • Problem Solving • Data Structures • Algorithms
+  <br><br>
 
-<br><br>
+  🎨 <b>02 — Front-End</b>
+  <br>
+  HTML • CSS • JavaScript • React
 
-🎨 <b>Front-End</b>
-<br>
-HTML • CSS • JavaScript • React
+  <br><br>
 
-<br><br>
+  ⚙️ <b>03 — Back-End</b>
+  <br>
+  Java • Spring Boot • REST APIs • Authentication
 
-⚙️ <b>Back-End</b>
-<br>
-Java • Spring Boot • REST APIs • Authentication
+  <br><br>
 
-<br><br>
+  🗄️ <b>04 — Database</b>
+  <br>
+  SQL • MySQL • Database Design
 
-🗄️ <b>Database</b>
-<br>
-SQL • MySQL • Database Design
+  <br><br>
 
-<br><br>
+  🔗 <b>05 — Full-Stack Integration</b>
+  <br>
+  React + Spring Boot + SQL
 
-🔗 <b>Full-Stack Integration</b>
-<br>
-React + Spring Boot + SQL
+  <br><br>
 
-<br><br>
-
-🚀 <b>Tools</b>
-<br>
-Git • GitHub • VS Code
-
+  🚀 <b>06 — Real Projects</b>
+  <br>
+  Build • Deploy • Improve • Repeat
 </p>
 
 <hr>
@@ -120,17 +114,11 @@ Git • GitHub • VS Code
 <br>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YazanManasra1&show_icons=true&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=YazanManasra1&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanManasra1&layout=compact&theme=tokyonight&hide_border=true">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YazanManasra1&show_icons=true&theme=tokyonight&hide_border=true">
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=YazanManasra1&theme=tokyonight&hide_border=true">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanManasra1&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 <hr>
@@ -150,9 +138,31 @@ Git • GitHub • VS Code
 <br>
 
 <p align="center">
-  I'm currently building projects as I progress through my Full-Stack journey.
+  I'm currently building projects while progressing through my Full-Stack journey.
+  <br><br>
+  💡 More projects will be added as I continue learning and building.
+</p>
+
+<hr>
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<br>
+
+<p align="center">
+  💻 Full-Stack Development
   <br>
-  More projects will be added here soon.
+  🧠 Problem Solving
+  <br>
+  📚 Data Structures & Algorithms
+  <br>
+  ☕ Java & Spring Boot
+  <br>
+  ⚛️ React
+  <br>
+  🗄️ SQL & Databases
+  <br>
+  🚀 Building Real Projects
 </p>
 
 <hr>
@@ -166,4 +176,3 @@ Git • GitHub • VS Code
 <p align="center">
   <i>Thanks for visiting my GitHub profile! 🤍</i>
 </p>
-```
