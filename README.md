@@ -21,7 +21,7 @@
   <br>
   🧠 I'm currently improving my Problem Solving, Data Structures & Algorithms skills
   <br>
-  📚 I'm following a Full-Stack roadmap with C++, Java, JavaScript, React, Spring Boot and SQL
+  📚 I'm learning C++, C#, Java and HTML
   <br>
   🔧 I use Git and GitHub to practice version control and manage my projects
   <br>
@@ -33,16 +33,9 @@
 <br>
 <p align="center">
   <code><img title="C++" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/cpp.svg"></code>
-  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/css.svg"></code>
-  <code><img title="React" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/git-original.svg"></code>
+  <code><img title="C#" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/cSharp.svg"></code>
   <code><img title="Java" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/mysql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/vscode.png"></code>
+  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/html5.svg"></code>
 </p>
 <hr>
 
@@ -87,5 +80,5 @@
 <!--
 **YazanManasra1/YazanManasra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This profile README is customized for Yazan Manasra and his Full-Stack learning journey.
+This profile README is customized for Yazan Manasra.
 -->
