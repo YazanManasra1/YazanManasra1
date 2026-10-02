@@ -21,7 +21,7 @@
   <br>
   🧠 I'm currently improving my Problem Solving, Data Structures & Algorithms skills
   <br>
-  📚 I'm learning C++, C#, Java and HTML
+  📚 I'm learning C++, C# and Java
   <br>
   🔧 I use Git and GitHub to practice version control and manage my projects
   <br>
@@ -35,7 +35,6 @@
   <code><img title="C++" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/cpp.svg"></code>
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/cSharp.svg"></code>
   <code><img title="Java" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/java-original.svg"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/YazanManasra1/zumrudu-anka/master/images/html5.svg"></code>
 </p>
 <hr>
 
