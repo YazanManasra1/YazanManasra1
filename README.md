@@ -2,30 +2,28 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yazan+Manasra;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Welcome+to+my+GitHub!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Yazan+Manasra;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h4 align="center">
-  <code>
-    <a href="https://github.com/YazanManasra1" title="GitHub Profile">GitHub</a>
-  </code>
+  <code><a href="https://github.com/YazanManasra1" title="GitHub Profile">GitHub</a></code>
 </h4>
 
 <br>
 
 <p align="center">
-  👋 Hi, I'm <b>Yazan Manasra</b> from Jordan 🇯🇴
+  Hi, I'm <b>Yazan Manasra</b> from Jordan 🇯🇴
   <br><br>
-  🎓 Software Engineering Student at Jadara University
+  🎓 Software Engineering Student at <b>Jadara University</b>
   <br>
   💻 Learning Full-Stack Development
   <br>
   🧠 Interested in Problem Solving, Data Structures & Algorithms
   <br>
-  🚀 Building projects and improving my development skills
+  🚀 Building my skills through projects and continuous practice
   <br>
-  🎯 Working towards becoming a Full-Stack Developer
+  📚 Currently learning C++, Java, JavaScript, React, Spring Boot and SQL
 </p>
 
 <hr>
@@ -50,29 +48,13 @@
 
 <hr>
 
-<h2 align="center">📚 Currently Learning 📚</h2>
-
-<br>
-
-<p align="center">
-  C++ &nbsp; • &nbsp;
-  Data Structures & Algorithms &nbsp; • &nbsp;
-  HTML & CSS &nbsp; • &nbsp;
-  JavaScript &nbsp; • &nbsp;
-  React &nbsp; • &nbsp;
-  Java &nbsp; • &nbsp;
-  Spring Boot &nbsp; • &nbsp;
-  SQL
-</p>
-
-<hr>
-
 <h2 align="center">🛠️ My Full-Stack Roadmap 🛠️</h2>
 
 <br>
 
 <p align="center">
-  🧱 <b>01 — Programming Fundamentals</b>
+
+  🧱 <b>01 — Fundamentals</b>
   <br>
   C++ • Problem Solving • Data Structures • Algorithms
 
@@ -96,15 +78,15 @@
 
   <br><br>
 
-  🔗 <b>05 — Full-Stack Integration</b>
+  🔗 <b>05 — Full-Stack</b>
   <br>
   React + Spring Boot + SQL
 
   <br><br>
 
-  🚀 <b>06 — Real Projects</b>
+  🚀 <b>06 — Projects</b>
   <br>
-  Build • Deploy • Improve • Repeat
+  Build • Practice • Deploy • Improve
 </p>
 
 <hr>
@@ -114,11 +96,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazanManasra1&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=YazanManasra1&show_icons=true&theme=react&hide_border=true" alt="Yazan's GitHub Stats">
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=YazanManasra1&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=YazanManasra1&theme=react&hide_border=true" alt="Yazan's GitHub Streak">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanManasra1&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanManasra1&layout=compact&theme=react&hide_border=true" alt="Top Languages">
 </p>
 
 <hr>
@@ -128,33 +110,31 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YazanManasra1&theme=tokyo-night&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YazanManasra1&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph">
 </p>
 
 <hr>
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🚀 My Projects 🚀</h2>
 
 <br>
 
 <p align="center">
-  I'm currently building projects while progressing through my Full-Stack journey.
-  <br><br>
-  💡 More projects will be added as I continue learning and building.
+  <a href="https://github.com/YazanManasra1/zumrudu-anka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YazanManasra1&repo=zumrudu-anka&theme=react&hide_border=true&border_radius=10" alt="zumrudu-anka">
+  </a>
 </p>
 
 <hr>
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🎯 Current Focus 🎯</h2>
 
 <br>
 
 <p align="center">
   💻 Full-Stack Development
   <br>
-  🧠 Problem Solving
-  <br>
-  📚 Data Structures & Algorithms
+  🧠 Data Structures & Algorithms
   <br>
   ☕ Java & Spring Boot
   <br>
